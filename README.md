@@ -1,3 +1,4 @@
+<!--test-->
 ## StegaStamp: Invisible Hyperlinks in Physical Photographs [[Project Page]](http://www.matthewtancik.com/stegastamp)
 
 ### CVPR 2020
